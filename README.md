@@ -1,23 +1,23 @@
-```html:sample
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>SubsLink</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <%= csrf_meta_tags %>
-    <%= csp_meta_tag %>
+## Sota Aoyagi
+:school:International Professional University of Technology in Tokyo  
+:computer:Backend engineer
 
-    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
+* **Langs/Frameworks**:  
+  * **Ruby**
+      * Ruby on Rails : Backend for WebApps
+  * **PHP**
+    * Laravel : Backend for WebApps
+  * **Python**
+    * Selenium : Scraping for Automation
+  * **Kotlin**
+    * Backend for AndroidApps
+  * **JavaScript**
+    * Vue.js : Frontend for WebApps
+  * **Other Frontend Frameworks**
+    * Bootstrap
 
-  <body>
-    <%= render 'layouts/header' %>
-      <main>
-        <p id="notice"><%= notice %></p>
-        <%= yield %>
-      </main>
-    <%= render 'layouts/footer' %>
-  </body>
-</html>
-```/
+
+### Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagi0409&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagi0409&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagi0409&theme=monokai)
