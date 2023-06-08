@@ -4,13 +4,12 @@
 
 * **Langs/Frameworks**:  
   * **Ruby**
-      * Ruby on Rails : Backend for WebApps
+    * Ruby on Rails : Backend for WebApps
   * **PHP**
     * Laravel : Backend for WebApps
   * **Python**
+    * Flask : Backend for WebApps
     * Selenium : Scraping for Automation
-  * **Kotlin**
-    * Backend for AndroidApps
   * **JavaScript**
     * Vue.js : Frontend for WebApps
   * **Other Frontend Frameworks**
