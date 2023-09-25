@@ -41,6 +41,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Activities
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagi-73&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagi-73&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagi-73&theme=monokai)
