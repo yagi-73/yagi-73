@@ -8,14 +8,12 @@
 ![Ruby](https://img.shields.io/badge/ruby-CC0000.svg?logo=ruby&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-ccc.svg?logo=php&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54&style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
 ### Frontend
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### Backend
 ![Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=rubyonrails&style=for-the-badge)
