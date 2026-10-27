@@ -12,10 +12,11 @@ Backend Engineer
 
 ## Tech
 
-**Backend**: Ruby on Rails · Ruby · GraphQL · MySQL · PostgreSQL · Sidekiq
-**Frontend**: React · TypeScript · Hotwire
-**Infra**: AWS · Fly.io · Docker · GitHub Actions
-**Other**: BigQuery · Gemini API
+- **Backend**: ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat)
+- **Frontend**: ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+- **Infra**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+- **Observability**: ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=flat) ![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?logo=bugsnag&logoColor=white&style=flat) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat)
+- **Other**: ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=flat) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white&style=flat)
 
 ## Projects
 
